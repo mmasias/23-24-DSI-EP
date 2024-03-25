@@ -2,7 +2,7 @@
 
 # Hermanos Nájera
 
-***Hermanos Nájera*** es una cadena de restaurantes familiares conocida por su cocina tradicional y su atmósfera acogedora, que ha sido parte de la comunidad local durante más de 50 años. Con el auge de la tecnología digital, los competidores han comenzado a implementar soluciones tecnológicas avanzadas, como pedidos en línea, sistemas de entrega automatizados, y marketing digital.
+*Hermanos Nájera* es una cadena de restaurantes familiares conocida por su cocina tradicional y su atmósfera acogedora, que ha sido parte de la comunidad local durante más de 50 años. A tenor del auge de la tecnología digital, sus competidores están implementando soluciones  tecnológicas avanzadas como pedidos en línea, sistemas de entrega automatizados, marketing digital, etc.
 
 La dirección de "Hermanos Nájera" está considerando si deben seguir el mismo camino para modernizarse y mantenerse competitivos. Hace unas semanas le solicitó a la consultora “***Grupo 10 DSI2324***” que le asesore en la decisión de cómo abordar la innovación tecnológica. A continuación un extracto del informe:
 
