@@ -17,11 +17,11 @@
     - El grado que está estudiando en la Universidad Europea del Atlántico.
     - Un concierto de AC/DC.
     - Un modelo de lenguaje (Ej.: *ChatGPT*, *Claude*, etc.).
-    - El lienzo de modelo de negocio.[(+)](canvasLLM.md)
+    - El lienzo de modelo de negocio.[(+)](documents/canvasLLM.md)
 01. A propósito del lienzo del modelo de negocio (uno de los varios marcos de trabajo que tenemos a disposición): ¿Por qué y para qué existen? Basándose en su experiencia y en lo visto en clase, ¿diría usted que se haya cumplido con el fin para el cuál han sido creados?
 01. Especifique de modo preciso como mejoraría la evaluación continua presentada, en estricta relación a los comentarios debatidos y el feedback que recibió durante su presentación.
 
-Lea el caso “[Hermanos Nájera](casoHermanosNajera.md)” y absuelva las siguientes preguntas:[(+)](casoHermanosNajeraPropuesta.md)
+Lea el caso “[Hermanos Nájera](documents/casoHermanosNajera.md)” y absuelva las siguientes preguntas:[(+)](documents/casoHermanosNajeraPropuesta.md)
 
 08. Basándose en la conclusión y los detalles proporcionados en el resumen ejecutivo, ¿qué herramientas y/o metodologías de análisis esperaría encontrar cuando lea el informe completo? Explique cómo cada una contribuiría a la comprensión y justificación de la recomendación final.
 09. Considerando la decisión recomendada, y apoyándose en el criterio que ha planteado en la pregunta 7, describa los elementos clave que esperaría ver desarrollados en el informe completo, explicando brevemente la relevancia de cada elemento en el contexto de la decisión de no innovar tecnológicamente.
