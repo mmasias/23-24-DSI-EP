@@ -19,7 +19,7 @@
     - Un modelo de lenguaje (Ej.: *ChatGPT*, *Claude*, etc.).
     - El lienzo de modelo de negocio.[(+)](documents/canvasLLM.md)
 01. A propósito del lienzo del modelo de negocio (uno de los varios marcos de trabajo que tenemos a disposición): ¿Por qué y para qué existen? Basándose en su experiencia y en lo visto en clase, ¿diría usted que se haya cumplido con el fin para el cuál han sido creados?
-01. Especifique de modo preciso como mejoraría la evaluación continua presentada, en estricta relación a los comentarios debatidos y el feedback que recibió durante su presentación.
+01. Destaque dos puntos en común abordados en las charlas de  Alfonso Lamadrid y Jorge Oliveira con los temas debatidos en clase. ¿Está de acuerdo con ellos?
 
 Lea el caso “[Hermanos Nájera](documents/casoHermanosNajera.md)” y absuelva las siguientes preguntas:[(+)](documents/casoHermanosNajeraPropuesta.md)
 
